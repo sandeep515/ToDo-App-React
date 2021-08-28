@@ -1,0 +1,12 @@
+input{
+    background-color: #5f27cd;
+    border-color: black;
+    color: aliceblue;
+}
+
+button{
+    height: 2rem;
+    margin-left: 1rem;
+    background-color: crimson;
+    
+}
